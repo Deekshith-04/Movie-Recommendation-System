@@ -6,6 +6,10 @@ A simple content-based movie recommendation system built using the MovieLens dat
 
 This project recommends movies based on genre similarity. It uses the MovieLens dataset and applies content-based filtering using CountVectorizer and Cosine Similarity.
 
+## Live Demo
+
+https://movie-recommendation-system-04.streamlit.app/
+
 ## Features
 
 - Search movies by title
